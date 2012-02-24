@@ -67,7 +67,7 @@ function mail_file( $to, $subject, $message, $from, $fileatt, $replyto="" )
 }
 
 /**
- * Logging class:
+ * Logging class: (from http://www.redips.net/php/write-to-log-file/)
  * - contains lfile, lopen, lclose and lwrite methods
  * - lfile sets path and name of log file
  * - lwrite will write message to the log file
