@@ -1,0 +1,6 @@
+[submodule "simplepie"]
+	path = simplepie
+	url = https://github.com/simplepie/simplepie.git
+[submodule "phpmailer"]
+	path = phpmailer
+	url = https://github.com/mwhite/phpmailer.git
